@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2019/09/24/move-banner.png"
+banner_image: "/img/banner.png"
 layout: landing-page
 heading: M.O.V.E Campaign
 partners: []
