@@ -25,12 +25,12 @@ sections:
   templates:
   - person
 - type: directory
-  path: _projects
-  label: Projects
+  path: _assets
+  label: Assets
   create: all
   match: "*"
   templates:
-  - project
+  - asset
 - type: document
   path: _data/information.yml
   label: Contact Information

@@ -1,12 +1,12 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+banner_image: "/uploads/2019/09/25/army-helmet-banner.png"
+heading: About M.O.V.E.
+sub_heading: From Brothers-In-Arms to Masonic Brotherhood
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: A group of Connecticut Masons who wish to assist veterans in restoring
+  the fellowship they may have lost.
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
@@ -18,6 +18,12 @@ menu:
     weight: 3
 ---
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+Masonic Outreach to Veterans Everywhere is a campaign conceived of by the brothers of [The Freemasons Podcast](https://www.stitcher.com/podcast/anchor-podcasts/the-freemasons) to educate military veterans about the Masonic fraternity.
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Masonic brothers who are interested in contributing to the campaign can learn more by visiting our assets area, or by contacting us.
+
+Veterans who are interested in learning more about the Masonic family can find more information by contacting us, or by visiting the following resources (courtesy of the Masonic Service Association):
+
+- [**United States Grand Lodge Locator**](https://www.msana.com/linksus.asp) - Find the Grand Lodge for your state
+- [**International Grand Lodge Locator**](https://www.msana.com/linksintl.asp) - Find the Grand Lodge for your country or region
+- [**Other Masonic Organizations**](https://www.msana.com/linksothers.asp) - Learn about the organizations which make up the Masonic family

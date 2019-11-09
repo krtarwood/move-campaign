@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Jekyll demo for Forestry CMS
+title: Masonic Outreach to Veterans Everywhere
+short_title: M.O.V.E.
+description: Introducing returning veterans to the masonic brotherhood
 baseurl:
 permalink: "/:path/"
 defaults:
@@ -19,9 +19,9 @@ collections:
     permalink: "/about/:path/"
   posts:
     output: true
-  projects:
+  assets:
     output: true
-    permalink: "/projects/:path/"
+    permalink: "/assets/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
