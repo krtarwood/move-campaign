@@ -1,14 +1,16 @@
 ---
 title: Contact
-date: 2017-11-01 03:00:00 +0000
+date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2019/09/25/contact-us-banner.png"
 heading: Contact the M.O.V.E. Team
-publish_date: 2017-12-01 04:00:00 +0000
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
+  footer:
+    weight: 4
   navigation:
     identifier: _contact
-    weight: 4
+    weight: 5
 
 ---
 ## Contact M.O.V.E.
