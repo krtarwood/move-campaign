@@ -1,16 +1,16 @@
 ---
 title: Campaign Flyer
-date: 2019-11-09 00:00:00 +0000
+date: '2019-11-09T00:00:00.000+00:00'
 categories: []
 description: A letter-format introductory flyer suitable for printing.
 banner_image: "/uploads/2019/09/25/move-banner.png"
-sub_heading: A great introduction to the fraternity for returning veterans
+sub_heading: 8.5 x 11" US Letter Fillable PDF
 tags:
 - letter
 - printable
 slug: ''
----
 
+---
 ## Overview
 
 The campaign flyer is a US Letter (8.5 x 11") formatted document suitable for presenting your lodge contact information to veterans in your area. 
