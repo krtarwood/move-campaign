@@ -1,6 +1,7 @@
 title: Masonic Outreach to Veterans Everywhere
 short_title: M.O.V.E.
 description: Introducing returning veterans to the masonic brotherhood
+url: https://movecampaign.org
 baseurl:
 permalink: "/:path/"
 defaults:

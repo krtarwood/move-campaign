@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="{{ page.title }} - {{ site.title }}">
     <meta property="og:description" content="{% if .page.description %}{{ .page.description }}{% else %}{{ .site.description }}{% endif %}">
-    <meta property="og:image" content="https://movecampaign.org/uploads/2019/09/25/move-banner.png">
+    <meta property="og:image" content="{{ "/uploads/2019/09/25/move-banner.png" | absolute_url }}">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="icon" type="image/png" href="{{ "/img/favicon.png" | absolute_url }}" />
     <link rel="stylesheet" href="https://yui-s.yahooapis.com/pure/0.6.0/pure-min.css">
