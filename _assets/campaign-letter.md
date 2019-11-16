@@ -21,7 +21,7 @@ The original concept for the campaign was developed by [George Mudry](/about/geo
 ## Filling & Printing
 The flyer consists of an Adobe PDF form. You can use any reliable PDF viewer (such as [Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)) to view, fill and print the form.
 
-1. Download the [Campaign Flyer PDF Form](/uploads/2019/09/25/Campaign Flyer.pdf)
+1. Download the Campaign Flyer PDF Form
 1. Open the PDF in your PDF viewer, and fill in the contact information form fields with your local lodge information
 1. Print the form locally, or print it to the "Microsoft Print to PDF" or other similar PDF printer device, and upload the completed PDF to a print-on-demand vendor such as [FedEx Print-On-Demand](https://www.fedex.com/en-us/printing/online-printing.html)
 
