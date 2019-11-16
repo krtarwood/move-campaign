@@ -11,7 +11,7 @@ layout: default
     <div class="pure-u-1">
         <div class="content content-narrow">
             {% if page.asset-media %}
-            <a href="{{ page.asset-media | absolute_url }}" target="_blank" onClick="ga('send', 'event', { eventCategory: 'Assets', eventAction: 'download', eventLabel: '{{ page.asset-media }}'});" class="pure-button button-success button-xlarge">Download&nbsp;<i class="fa fa-download"></i></a>
+            <a href="{{ page.asset-media | absolute_url }}" onClick="gtag('event', 'download', { eventCategory: 'Assets', eventLabel: '{{ page.asset-media }}'});" class="pure-button button-success button-xlarge">Download&nbsp;<i class="fa fa-download"></i></a>
             {% endif %}
 
             {{ content }}
