@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% comment %}
+	This layout is used by the assets in the _assets/ collection
+{% endcomment %}
+
+{% include breadcrumbs.html class="content-narrow" %}
+
+<div class="container pure-g">
+    <div class="pure-u-1">
+        <div class="content content-narrow">
+            {% if page.asset-media %}
+            <a href="{{ page.asset-media | absolute_url }}" onclick="ga('send', {
+              hitType: 'event',
+              eventCategory: 'Assets',
+              eventAction: 'download',
+              eventLabel: '{{ page.asset-media }}'
+              });" class="pure-button button-success button-xlarge">Download&nbsp;<i class="fa fa-download"></i></a>
+            {% endif %}
+
+            {{ content }}
+        </div>
+    </div>
+</div>

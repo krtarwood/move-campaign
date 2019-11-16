@@ -10,6 +10,12 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: asset-media
+  label: Asset Document
+  type: file
+  description: The asset document media item 
+  hidden: false
+  default: ''
 - name: banner_image
   label: Banner Image
   type: file

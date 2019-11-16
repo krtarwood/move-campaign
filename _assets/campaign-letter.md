@@ -3,13 +3,14 @@ title: Campaign Flyer
 date: '2019-11-09T00:00:00.000+00:00'
 categories: []
 description: A letter-format introductory flyer suitable for printing.
+asset-media: "/uploads/2019/09/25/Campaign Flyer.pdf"
 banner_image: "/uploads/2019/09/25/move-banner.png"
 sub_heading: 8.5 x 11" US Letter Fillable PDF
 tags:
 - letter
 - printable
 slug: ''
-
+layout: 'asset'
 ---
 ## Overview
 
